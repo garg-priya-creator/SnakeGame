@@ -1,2 +1,2 @@
-# SnameGame
+# SnakeGame
 Snake Game using Unity
